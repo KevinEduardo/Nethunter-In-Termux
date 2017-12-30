@@ -45,7 +45,7 @@ echo
 2)
 echo "prerequisites are installing.........."
 echo
-apt install proot wget bsdtar -y
+apt install proot wget tar -y
 echo
 echo "installed successfully.... :D"
 echo
